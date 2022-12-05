@@ -1,6 +1,9 @@
 # Hello World! 🌍
 
-My name is **Gustaf** and I'm an aspiring fullstack web developer 💻 🖱️ 
+My name is **Gustaf** and I'm a fullstack web developer 💻 🖱️ 
+
+I'm currently working on a front end Javascript framework called [**AviaryJS**](https://github.com/FramtidsGustaf/AviaryJS) please check it out.
+Especially if you're a ornithologist.
 
 Do you also like Vue.js?  [Check out this repo](https://github.com/FramtidsGustaf/social) 💚
 
